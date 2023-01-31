@@ -1,4 +1,5 @@
-//4027348   Jul 5, 2013 6:26:08 PM	fuwutu	 263A - Beautiful Matrix	 GNU C++0x	Accepted	15 ms	0 KB
+//problem_name:beautiful_mattrix.
+//codefoece_263A
 #include <iostream>
 #include <cmath>
 
